@@ -11,4 +11,8 @@ public class TuanActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tuan);
     }
+
+    public void Hello(){
+        //Dung dep trai
+    }
 }
