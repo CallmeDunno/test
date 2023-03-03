@@ -11,4 +11,5 @@ public class OanhActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_oanh);
     }
+    //Kẻ hành pháp zero
 }
