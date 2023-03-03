@@ -14,5 +14,6 @@ public class TuanActivity extends AppCompatActivity {
 
     public void Hello(){
         //Dung dep trai
+        //Tuan test lan cuoi
     }
 }
