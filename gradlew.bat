@@ -87,3 +87,4 @@ exit /b 1
 if "%OS%"=="Windows_NT" endlocal
 
 :omega
+"Hello 1 2 3 4"

@@ -9,6 +9,7 @@ public class KienActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        // Author: KienNT 03/03/2023
         setContentView(R.layout.activity_kien);
     }
 }
